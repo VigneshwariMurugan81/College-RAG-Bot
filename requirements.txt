@@ -1,0 +1,10 @@
+gradio
+huggingface_hub
+python-dotenv
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+docx2txt
+
